@@ -5,6 +5,7 @@ import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 
 import Test from './component/Test';
 
+// nav	
 const Nav = () => (
 	<ul>
 		<li><Link to='/test'>Test</Link></li>
