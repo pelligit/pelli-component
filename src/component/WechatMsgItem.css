@@ -1,0 +1,35 @@
+.wechat-msg-item-container{
+    text-align: left;
+    height: 50px;
+    margin: 3px 0;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.wechat-msg-icon{
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-color: bisque;
+}
+
+.wechat-msg-infos{
+    height: 50px;
+    padding: 5px;
+    /* margin-left: 65px; */
+    /* clear: right; */
+    float: left;
+}
+
+.wechat-msg-infos-title{
+    font-size: 15px;
+}
+
+.wechat-msg-infos-brief{
+    font-size: 12px;
+}
+
+.wechat-msg-actions{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
